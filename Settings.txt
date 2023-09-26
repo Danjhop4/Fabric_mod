@@ -1,0 +1,5 @@
+type app
+project lang java
+kotlin build script
+java version 17
+main class and package anything
